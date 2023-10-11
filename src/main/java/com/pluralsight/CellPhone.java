@@ -39,19 +39,19 @@ public class CellPhone {
         this.phoneOwner = phoneOwner;
     }
     public int getSerialNumber(){
-        return this.serialNumber;
+        return serialNumber;
     }
     public String getPhoneModel(){
-        return this.getPhoneModel();
+        return phoneModel;
     }
     public String getPhoneCarrier(){
-        return this.getPhoneCarrier();
+        return phoneCarrier;
     }
     public String getPhoneNumber(){
-        return this.getPhoneNumber();
+        return phoneNumber;
     }
     public String getPhoneOwner(){
-        return this.getPhoneOwner();
+        return phoneOwner;
     }
 
 
