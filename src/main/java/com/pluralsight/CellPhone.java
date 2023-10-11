@@ -53,6 +53,10 @@ public class CellPhone {
     public String getPhoneOwner(){
         return phoneOwner;
     }
+    public void dial(String phoneNumber){
+        this.phoneNumber = phoneNumber;
+
+    }
 
 
 
